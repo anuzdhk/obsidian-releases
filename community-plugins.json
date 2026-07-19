@@ -40899,5 +40899,12 @@
     "author": "Soma Sekimoto",
     "description": "Merge duplicate highlights that Web Clipper appends when re-clipping a page, while protecting the comments you write under each quote. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "somasekimoto/obsidian-clippings-dedupe"
-  }
+  },
+  {
+    "id": "autoicons",
+    "name": "AutoIcons",
+    "author": "Anuz Dhakal",
+    "description": "Automatically adds icons to files and folders based on frontmatter, custom rules, and file type.",
+    "repo": "anuzdhk/autoicon"
+}
 ]
